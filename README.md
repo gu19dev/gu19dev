@@ -46,7 +46,6 @@ In my current setup, I run my machine with a Windows 10 system and use the WSL2 
 
 <div align="center">
 
- 👨‍💻
 
 
 [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=)](https://code.visualstudio.com/docs)[![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white&logoWidth=30)](https://learn.microsoft.com/pt-br/visualstudio/?view=vs-2022)[![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/download/)
@@ -61,13 +60,14 @@ In my current setup, I run my machine with a Windows 10 system and use the WSL2 
 
 
 
- 👨‍💻 studying
 
 
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-F24F1E?style=flat-square&logo=HTML5&logoColor=white&logoWidth=30)![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=ffeb44&logoWidth=30)![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=add8e6&logoWidth=30)
+
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white&logoWidth=30)](https://bun.sh/docs)[![Node.js](https://img.shields.io/badge/Node.js-239120?style=flat-square&logo=node.js&logoColor=white&logoWidth=30)](https://nodejs.org/docs/latest/api/)[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&logoWidth=30)](https://docs.oracle.com/en/java/)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&logoWidth=30)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&logoWidth=30)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&logoWidth=30)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&logoWidth=30)](https://docs.spring.io/spring-framework/reference/index.html) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot&logoWidth=30)](https://spring.io/projects/spring-boot#learn) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&logoWidth=30)](https://expressjs.com/en/starter/installing.html)
 
