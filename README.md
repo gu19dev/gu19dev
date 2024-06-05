@@ -1,9 +1,16 @@
-<img align="right" width="350" height="350" src="./icons/eva-neon-genesis-evangelion.webp">
+</div align="right">
+
+<img align="right" width="250" height="150" src="./icons/eva-neon-genesis-evangelion.webp">
+
+
+</div>
 
 # Welcome to my profile 🤩👋🏼!
 
 <p> My name is Gustavo Ferreira, and I am 18 years old.
 I graduated from a technical course alongside high school in the field of Industrial Automation, where I programmed and worked in automation environments with Programmable Logic Controllers (PLCs) using the Ladder programming language and maker/embedded development with the Arduino board and its programming language. </p>
+
+
 
 ## About Me
 
