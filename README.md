@@ -46,7 +46,7 @@ In my current setup, I run my machine with a Windows 10 system and use the WSL2 
 
 <div align="center">
 
-##### 👨‍💻
+ 👨‍💻
 
 
 [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=)](https://code.visualstudio.com/docs)[![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white&logoWidth=30)](https://learn.microsoft.com/pt-br/visualstudio/?view=vs-2022)[![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/download/)
@@ -61,7 +61,7 @@ In my current setup, I run my machine with a Windows 10 system and use the WSL2 
 
 
 
-##### 👨‍💻 studying
+ 👨‍💻 studying
 
 
 <div align="center">
@@ -85,7 +85,7 @@ In my current setup, I run my machine with a Windows 10 system and use the WSL2 
 
 
 
-# Translations
+### Translations
 
 <div align="left">
 
