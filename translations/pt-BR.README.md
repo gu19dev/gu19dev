@@ -1,4 +1,5 @@
-<img align="right" width="350" height="350" src="./icons/eva-neon-genesis-evangelion.webp">
+<img align="right" width="350" height="350" src="../icons/eva-neon-genesis-evangelion.webp">
+
 # Bem-vindo ao meu perfil 🤩👋🏼!
 
 
